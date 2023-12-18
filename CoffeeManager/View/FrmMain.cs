@@ -11,7 +11,7 @@ namespace CoffeeManager
     public partial class FrmMain : Form
     {
         private DataTable _dt = null;
-       
+
         private string _nameTable = "";
         private string _messageClose = MSG_CLOSE_FORM;
         private string _nameProduct = "";
@@ -21,7 +21,7 @@ namespace CoffeeManager
         private const string _defaultSettingsTb = "16;50;80";
 
         private double _unitPrice = 0;
-        private long _idBill = 0;      
+        private long _idBill = 0;
         private long _idCustomer = 0;
         private long _idEmployees = 0;
         private long _idTable = 0;
@@ -99,7 +99,7 @@ namespace CoffeeManager
                     MessageBox.Show(message);
                     goto TheEnd;
                 }
-             
+
                 message = ReadSettingProduct();
                 if (message.Length > 0)
                 {
@@ -118,7 +118,7 @@ namespace CoffeeManager
             {
                 MessageBox.Show(ex.Message);
                 goto TheEnd;
-            }          
+            }
 
         TheEnd:
             return;
@@ -149,7 +149,7 @@ namespace CoffeeManager
             {
                 List<DbLoginRoleOut> dbLoginRoleOuts = new List<DbLoginRoleOut>();
                 dbLoginRoleOuts = DbLogin.GetLoginRoleByIdLogin(_idLogin);
-                foreach(DbLoginRoleOut dbLoginRole in dbLoginRoleOuts)
+                foreach (DbLoginRoleOut dbLoginRole in dbLoginRoleOuts)
                 {
                     long idMenu = dbLoginRole.IdMenuItems;
                     string menuName = DbLogin.GetMenuNameById(idMenu);
@@ -163,9 +163,9 @@ namespace CoffeeManager
                                 item.Enabled = true;
                                 break;
                             }
-                        }                                                      
+                        }
                     }
-                }    
+                }
             }
             catch (Exception ex)
             {
@@ -216,8 +216,8 @@ namespace CoffeeManager
                 if (cbbPosition.SelectedIndex != -1)
                 {
                     id = long.Parse(cbbPosition.SelectedValue.ToString());
-                }    
-                
+                }
+
                 _dt = new DataTable();
                 _dt = _dbTable.GetAllTable(_modeGetTable, id);
 
@@ -245,7 +245,7 @@ namespace CoffeeManager
                         Height = _buttonTableHeight,
                         Width = _buttonTableWidth,
                         BackColor = Color.White,
-                        Font = new Font("Arial",_fontSizeTb, FontStyle.Regular),
+                        Font = new Font("Arial", _fontSizeTb, FontStyle.Regular),
                     };
 
                     bool getSet = bool.Parse(bt.Tag.ToString());
@@ -321,11 +321,11 @@ namespace CoffeeManager
             if (_isSave == false)
             {
                 DialogResult dia = MessageBox.Show(MSG_WANT_TO_SAVE, MSG_NOTIFICATION,
-                    MessageBoxButtons.YesNo,MessageBoxIcon.Information);
+                    MessageBoxButtons.YesNo, MessageBoxIcon.Information);
                 if (dia == DialogResult.Yes)
                 {
                     btnSave.PerformClick();
-                }                   
+                }
             }
 
             ClearText();
@@ -340,8 +340,8 @@ namespace CoffeeManager
             if (btn.BackColor == Color.Blue)
             {
                 _needLoad = false;
-            } 
-            
+            }
+
             string message = LoadAllBillDetailt();
             if (message.Length > 0)
             {
@@ -464,7 +464,7 @@ namespace CoffeeManager
                 {
                     // Tự động nhấn nút save
                     btnSave.PerformClick();
-                }      
+                }
             }
 
             Button btn = (Button)sender;
@@ -499,7 +499,7 @@ namespace CoffeeManager
             {
                 DataTable dt = new DataTable();
                 switch (_modeInplaceOrBring)
-                {                    
+                {
                     case 0:
                         dt = _dbBill.GetAllBillDetailt(_idTable);
                         if (dt == null)
@@ -520,8 +520,8 @@ namespace CoffeeManager
 
                     default:
                         break;
-                }    
-                
+                }
+
 
                 dgvMain.DataSource = dt;
                 if (dt.Rows.Count == 0)
@@ -565,7 +565,7 @@ namespace CoffeeManager
                 if (_loadComplete == false)
                 {
                     goto TheEnd;
-                }    
+                }
 
                 string message = LoadDtTable();
                 if (message.Length > 0)
@@ -675,7 +675,7 @@ namespace CoffeeManager
             string message = SHOW_NONE;
             try
             {
-                string pathSetPr = Application.StartupPath ;
+                string pathSetPr = Application.StartupPath;
                 // Đọc file setting
                 string defaultSettings = pathSetPr + "\\DefaultSettings.tb";
                 if (File.Exists(defaultSettings) == false)
@@ -749,7 +749,7 @@ namespace CoffeeManager
                         BackColor = Color.White,
                         TextAlign = ContentAlignment.BottomCenter,
                         Font = new Font("Arial", _fontSizePr, FontStyle.Regular)
-                };
+                    };
 
                     flpRight.Controls.Add(bt);
                     bt.Click += btn_Product;
@@ -760,7 +760,7 @@ namespace CoffeeManager
                 message = ex.Message;
                 goto TheEnd;
             }
-           
+
         TheEnd:
             return message;
         }
@@ -772,14 +772,14 @@ namespace CoffeeManager
             {
                 MessageBox.Show(MSG_SELECT_TABLE_FIRST);
                 goto TheEnd;
-            }    
+            }
 
             Button btn = (Button)sender;
             _idProduct = long.Parse(btn.Name);
             _nameProduct = btn.Text;
             _unitPrice = double.Parse(btn.Tag.ToString());
 
-            FrmAddBillDetailt frmAddBdt = 
+            FrmAddBillDetailt frmAddBdt =
                 new FrmAddBillDetailt(ModeExe.Add, _idTable,
                 _idProduct, _nameProduct, _unitPrice, _idBill,
                 SHOW_NONE, _idEmployees, _idCustomer);
@@ -797,7 +797,7 @@ namespace CoffeeManager
             {
                 MessageBox.Show(message);
             }
-           
+
             // Xác định lại trạng thái Lưu dữ liệu
             _isSave = false;
 
@@ -805,7 +805,7 @@ namespace CoffeeManager
             if (_needLoad == false)
             {
                 goto TheEnd;
-            }    
+            }
 
             switch (_modeInplaceOrBring)
             {
@@ -859,7 +859,7 @@ namespace CoffeeManager
             dgvMain.Columns["quantily"].HeaderCell.Style.Alignment = DataGridViewContentAlignment.MiddleCenter;
             dgvMain.Columns["quantily"].SortMode = DataGridViewColumnSortMode.NotSortable;
         }
-      
+
         /// <summary>
         /// <pa>Chuyển byte thành hình ảnh</pa>
         /// </summary>
@@ -966,8 +966,8 @@ namespace CoffeeManager
                 {
                     MsgBox.CfmInfomation(MSG_NOTHING_TO_SAVE);
                     goto TheEnd;
-                }   
-                
+                }
+
                 int updat = _dbBill.UpdateTotalMoneyBill(_idBill, totalMoney);
                 if (updat != 1)
                 {
@@ -1009,8 +1009,8 @@ namespace CoffeeManager
                 double unitPrice = (double)dgvMain.SelectedRows[0].Cells["unitPrice"].Value;
                 string description = (string)dgvMain.SelectedRows[0].Cells["description"].Value;
                 FrmAddBillDetailt frmAddBdt =
-                    new FrmAddBillDetailt(ModeExe.Update, _idTable, quantily, nameProduct, unitPrice, 
-                    idBillDetail,description, _idEmployees, _idCustomer);
+                    new FrmAddBillDetailt(ModeExe.Update, _idTable, quantily, nameProduct, unitPrice,
+                    idBillDetail, description, _idEmployees, _idCustomer);
                 DialogResult show = frmAddBdt.ShowDialog();
                 if (show != DialogResult.OK)
                 {
@@ -1069,7 +1069,7 @@ namespace CoffeeManager
                 if (message.Length > 0)
                 {
                     MessageBox.Show(message);
-                }  
+                }
             }
             catch (Exception ex)
             {
@@ -1144,7 +1144,7 @@ namespace CoffeeManager
                 {
                     MessageBox.Show(MSG_SELECT_GR_FIRST);
                     goto TheEnd;
-                }    
+                }
 
                 if (txtSearch.Text == string.Empty)
                 {
@@ -1154,14 +1154,14 @@ namespace CoffeeManager
                         MessageBox.Show(message);
                         goto TheEnd;
                     }
-                }   
-                
+                }
+
                 message = SearchProduct();
                 if (message.Length > 0)
                 {
                     MessageBox.Show(message);
                     goto TheEnd;
-                }    
+                }
             }
             catch (Exception ex)
             {
@@ -1296,9 +1296,9 @@ namespace CoffeeManager
                     if (ques != DialogResult.Yes)
                     {
                         goto TheEnd;
-                    }    
-                }   
-                
+                    }
+                }
+
                 long idBill = (long)dgvMain.Rows[0].Cells["idBill"].Value;
                 btnSave.PerformClick();
                 //FrmPrint print = new FrmPrint(idBill);
@@ -1359,7 +1359,7 @@ namespace CoffeeManager
                 {
                     MsgBox.ErrProcess(ERROR_UPDATE_BILL_STATUS);
                     goto TheEnd;
-                }    
+                }
 
                 switch (_modeInplaceOrBring)
                 {
@@ -1369,7 +1369,7 @@ namespace CoffeeManager
                         {
                             MsgBox.ErrProcess(ERROR_UPDATE_TABLE_STATUS);
                             goto TheEnd;
-                        }    
+                        }
                         break;
 
                     case 1:
@@ -1472,8 +1472,8 @@ namespace CoffeeManager
                 {
                     idTable = 0;
                     nameTable = MSG_HAVENT_SELECT_TABLE;
-                }  
-                
+                }
+
                 FrmChangeTable frmChange = new FrmChangeTable(ModeExe.Add, idTable, nameTable);
                 DialogResult show = frmChange.ShowDialog();
                 if (show != DialogResult.OK)
@@ -1551,7 +1551,7 @@ namespace CoffeeManager
         TheEnd:
             return;
         }
-     
+
         private void CkbPrintBill_CheckedChanged(object sender, EventArgs e)
         {
             //bool iChecked = CkbPrintBill.Checked;
@@ -1591,7 +1591,7 @@ namespace CoffeeManager
         /// <param name="sender"></param>
         /// <param name="e"></param>
         private void FrmMain_FormClosing(object sender, FormClosingEventArgs e)
-        { 
+        {
             if (_isLogOut != false)
             {
                 goto TheEnd;
@@ -1601,7 +1601,7 @@ namespace CoffeeManager
             {
                 MsgBox.CfmInfomation(_messageClose);
                 goto TheEnd;
-            }    
+            }
 
             DialogResult showQues = MsgBox.CfmProcessing(_messageClose);
             if (showQues != DialogResult.Yes)
@@ -1610,7 +1610,7 @@ namespace CoffeeManager
                 goto TheEnd;
             }
 
-            
+
         TheEnd:
             return;
         }
@@ -1689,7 +1689,7 @@ namespace CoffeeManager
             FrmSalesChart chart = new FrmSalesChart();
             chart.ShowDialog();
         }
-        
+
         private void tsmiAuthor_Click(object sender, EventArgs e)
         {
             FrmAuthor author = new FrmAuthor();
@@ -1718,7 +1718,7 @@ namespace CoffeeManager
             {
                 ToolStripMenuItem mnuLangVi = (ToolStripMenuItem)sender;
                 string langValue = (string)mnuLangVi.Tag;
-                string curentLang = LgConfig.LangName.Replace("\0","").Trim();
+                string curentLang = LgConfig.LangName.Replace("\0", "").Trim();
                 if (langValue.Equals(curentLang))
                 {
                     goto TheEnd;
@@ -1802,7 +1802,7 @@ namespace CoffeeManager
             {
                 MsgBox.ErrProcess(message);
                 goto TheEnd;
-            }    
+            }
 
         TheEnd:
             return;
@@ -1844,7 +1844,7 @@ namespace CoffeeManager
             {
                 cbbPosition.SelectedIndex = -1;
                 _modeGetTable = 1;
-                
+
                 string message = ReadSettingTable();
                 if (message.Length > 0)
                 {

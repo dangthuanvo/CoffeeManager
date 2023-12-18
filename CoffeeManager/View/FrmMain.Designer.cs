@@ -124,10 +124,10 @@ namespace CoffeeManager
             this.flowLayoutPanel1 = new System.Windows.Forms.FlowLayoutPanel();
             this.btnSave = new System.Windows.Forms.Button();
             this.btnChangeTable = new System.Windows.Forms.Button();
-            this.btnMergeTable = new System.Windows.Forms.Button();
             this.btnPay = new System.Windows.Forms.Button();
             this.groupBox4 = new System.Windows.Forms.GroupBox();
             this.lblTable = new System.Windows.Forms.Label();
+            this.btnMergeTable = new System.Windows.Forms.Button();
             this.mnsMain.SuspendLayout();
             this.pnlLeft.SuspendLayout();
             this.panel3.SuspendLayout();
@@ -163,6 +163,7 @@ namespace CoffeeManager
             // 
             // tsmnSystem
             // 
+            resources.ApplyResources(this.tsmnSystem, "tsmnSystem");
             this.tsmnSystem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.tsmnLogOut,
             this.toolStripSeparator6,
@@ -175,99 +176,99 @@ namespace CoffeeManager
             this.TsmiExit});
             this.tsmnSystem.Image = global::CoffeeManager.Properties.Resources.sytem;
             this.tsmnSystem.Name = "tsmnSystem";
-            resources.ApplyResources(this.tsmnSystem, "tsmnSystem");
             // 
             // tsmnLogOut
             // 
+            resources.ApplyResources(this.tsmnLogOut, "tsmnLogOut");
             this.tsmnLogOut.Image = global::CoffeeManager.Properties.Resources.logout16;
             this.tsmnLogOut.Name = "tsmnLogOut";
-            resources.ApplyResources(this.tsmnLogOut, "tsmnLogOut");
             this.tsmnLogOut.Click += new System.EventHandler(this.tsmnLogOut_Click);
             // 
             // toolStripSeparator6
             // 
-            this.toolStripSeparator6.Name = "toolStripSeparator6";
             resources.ApplyResources(this.toolStripSeparator6, "toolStripSeparator6");
+            this.toolStripSeparator6.Name = "toolStripSeparator6";
             // 
             // tsmnChangePass
             // 
+            resources.ApplyResources(this.tsmnChangePass, "tsmnChangePass");
             this.tsmnChangePass.Image = global::CoffeeManager.Properties.Resources.pass16;
             this.tsmnChangePass.Name = "tsmnChangePass";
-            resources.ApplyResources(this.tsmnChangePass, "tsmnChangePass");
             this.tsmnChangePass.Click += new System.EventHandler(this.tsmnChangePass_Click);
             // 
             // toolStripSeparator7
             // 
-            this.toolStripSeparator7.Name = "toolStripSeparator7";
             resources.ApplyResources(this.toolStripSeparator7, "toolStripSeparator7");
+            this.toolStripSeparator7.Name = "toolStripSeparator7";
             // 
             // tsmiLoginManager
             // 
+            resources.ApplyResources(this.tsmiLoginManager, "tsmiLoginManager");
             this.tsmiLoginManager.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.TsmiAdLogin,
             this.TsmiLoginRole});
-            resources.ApplyResources(this.tsmiLoginManager, "tsmiLoginManager");
             this.tsmiLoginManager.Image = global::CoffeeManager.Properties.Resources.login16;
             this.tsmiLoginManager.Name = "tsmiLoginManager";
             // 
             // TsmiAdLogin
             // 
+            resources.ApplyResources(this.TsmiAdLogin, "TsmiAdLogin");
             this.TsmiAdLogin.Image = global::CoffeeManager.Properties.Resources.add16;
             this.TsmiAdLogin.Name = "TsmiAdLogin";
-            resources.ApplyResources(this.TsmiAdLogin, "TsmiAdLogin");
             this.TsmiAdLogin.Click += new System.EventHandler(this.TsmiAdLogin_Click);
             // 
             // TsmiLoginRole
             // 
+            resources.ApplyResources(this.TsmiLoginRole, "TsmiLoginRole");
             this.TsmiLoginRole.Image = global::CoffeeManager.Properties.Resources.permission16;
             this.TsmiLoginRole.Name = "TsmiLoginRole";
-            resources.ApplyResources(this.TsmiLoginRole, "TsmiLoginRole");
             this.TsmiLoginRole.Click += new System.EventHandler(this.TsmiLoginRole_Click);
             // 
             // toolStripSeparator8
             // 
-            this.toolStripSeparator8.Name = "toolStripSeparator8";
             resources.ApplyResources(this.toolStripSeparator8, "toolStripSeparator8");
+            this.toolStripSeparator8.Name = "toolStripSeparator8";
             // 
             // TsmiLang
             // 
+            resources.ApplyResources(this.TsmiLang, "TsmiLang");
             this.TsmiLang.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.TsmiViet,
             this.TsmiEnglish});
             this.TsmiLang.Image = global::CoffeeManager.Properties.Resources.language;
             this.TsmiLang.Name = "TsmiLang";
-            resources.ApplyResources(this.TsmiLang, "TsmiLang");
             // 
             // TsmiViet
             // 
+            resources.ApplyResources(this.TsmiViet, "TsmiViet");
             this.TsmiViet.Image = global::CoffeeManager.Properties.Resources.ViFlag;
             this.TsmiViet.Name = "TsmiViet";
-            resources.ApplyResources(this.TsmiViet, "TsmiViet");
             this.TsmiViet.Tag = "vi";
             this.TsmiViet.Click += new System.EventHandler(this.TsmiViet_Click);
             // 
             // TsmiEnglish
             // 
+            resources.ApplyResources(this.TsmiEnglish, "TsmiEnglish");
             this.TsmiEnglish.Image = global::CoffeeManager.Properties.Resources.EngFlag;
             this.TsmiEnglish.Name = "TsmiEnglish";
-            resources.ApplyResources(this.TsmiEnglish, "TsmiEnglish");
             this.TsmiEnglish.Tag = "en";
             this.TsmiEnglish.Click += new System.EventHandler(this.TsmiEnglish_Click);
             // 
             // toolStripSeparator9
             // 
-            this.toolStripSeparator9.Name = "toolStripSeparator9";
             resources.ApplyResources(this.toolStripSeparator9, "toolStripSeparator9");
+            this.toolStripSeparator9.Name = "toolStripSeparator9";
             // 
             // TsmiExit
             // 
+            resources.ApplyResources(this.TsmiExit, "TsmiExit");
             this.TsmiExit.Image = global::CoffeeManager.Properties.Resources.exit16;
             this.TsmiExit.Name = "TsmiExit";
-            resources.ApplyResources(this.TsmiExit, "TsmiExit");
             this.TsmiExit.Click += new System.EventHandler(this.TsmiExit_Click);
             // 
             // tsmnList
             // 
+            resources.ApplyResources(this.tsmnList, "tsmnList");
             this.tsmnList.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.tsmnTable,
             this.toolStripSeparator1,
@@ -282,7 +283,6 @@ namespace CoffeeManager
             this.TsmiSaleReport});
             this.tsmnList.Image = global::CoffeeManager.Properties.Resources.category;
             this.tsmnList.Name = "tsmnList";
-            resources.ApplyResources(this.tsmnList, "tsmnList");
             // 
             // tsmnTable
             // 
@@ -293,8 +293,8 @@ namespace CoffeeManager
             // 
             // toolStripSeparator1
             // 
-            this.toolStripSeparator1.Name = "toolStripSeparator1";
             resources.ApplyResources(this.toolStripSeparator1, "toolStripSeparator1");
+            this.toolStripSeparator1.Name = "toolStripSeparator1";
             // 
             // tsmnMenu
             // 
@@ -305,8 +305,8 @@ namespace CoffeeManager
             // 
             // toolStripSeparator2
             // 
-            this.toolStripSeparator2.Name = "toolStripSeparator2";
             resources.ApplyResources(this.toolStripSeparator2, "toolStripSeparator2");
+            this.toolStripSeparator2.Name = "toolStripSeparator2";
             // 
             // tsmnEmployees
             // 
@@ -317,8 +317,8 @@ namespace CoffeeManager
             // 
             // toolStripSeparator3
             // 
-            this.toolStripSeparator3.Name = "toolStripSeparator3";
             resources.ApplyResources(this.toolStripSeparator3, "toolStripSeparator3");
+            this.toolStripSeparator3.Name = "toolStripSeparator3";
             // 
             // TsmiCus
             // 
@@ -329,8 +329,8 @@ namespace CoffeeManager
             // 
             // toolStripSeparator4
             // 
-            this.toolStripSeparator4.Name = "toolStripSeparator4";
             resources.ApplyResources(this.toolStripSeparator4, "toolStripSeparator4");
+            this.toolStripSeparator4.Name = "toolStripSeparator4";
             // 
             // TsmiBills
             // 
@@ -341,8 +341,8 @@ namespace CoffeeManager
             // 
             // toolStripSeparator5
             // 
-            this.toolStripSeparator5.Name = "toolStripSeparator5";
             resources.ApplyResources(this.toolStripSeparator5, "toolStripSeparator5");
+            this.toolStripSeparator5.Name = "toolStripSeparator5";
             // 
             // TsmiSaleReport
             // 
@@ -353,13 +353,13 @@ namespace CoffeeManager
             // 
             // tsmnHelp
             // 
+            resources.ApplyResources(this.tsmnHelp, "tsmnHelp");
             this.tsmnHelp.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.TsmiBackup,
             this.toolStripSeparator10,
             this.TsmiRestoreDb});
             this.tsmnHelp.Image = global::CoffeeManager.Properties.Resources.Extension;
             this.tsmnHelp.Name = "tsmnHelp";
-            resources.ApplyResources(this.tsmnHelp, "tsmnHelp");
             // 
             // TsmiBackup
             // 
@@ -370,8 +370,8 @@ namespace CoffeeManager
             // 
             // toolStripSeparator10
             // 
-            this.toolStripSeparator10.Name = "toolStripSeparator10";
             resources.ApplyResources(this.toolStripSeparator10, "toolStripSeparator10");
+            this.toolStripSeparator10.Name = "toolStripSeparator10";
             // 
             // TsmiRestoreDb
             // 
@@ -382,53 +382,53 @@ namespace CoffeeManager
             // 
             // tsmnInfo
             // 
+            resources.ApplyResources(this.tsmnInfo, "tsmnInfo");
             this.tsmnInfo.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.tsmiStore,
             this.toolStripSeparator11,
             this.tsmiAuthor});
             this.tsmnInfo.Image = global::CoffeeManager.Properties.Resources.info;
             this.tsmnInfo.Name = "tsmnInfo";
-            resources.ApplyResources(this.tsmnInfo, "tsmnInfo");
             // 
             // tsmiStore
             // 
+            resources.ApplyResources(this.tsmiStore, "tsmiStore");
             this.tsmiStore.Image = global::CoffeeManager.Properties.Resources.store16;
             this.tsmiStore.Name = "tsmiStore";
-            resources.ApplyResources(this.tsmiStore, "tsmiStore");
             this.tsmiStore.Click += new System.EventHandler(this.tsmiStore_Click);
             // 
             // toolStripSeparator11
             // 
-            this.toolStripSeparator11.Name = "toolStripSeparator11";
             resources.ApplyResources(this.toolStripSeparator11, "toolStripSeparator11");
+            this.toolStripSeparator11.Name = "toolStripSeparator11";
             // 
             // tsmiAuthor
             // 
+            resources.ApplyResources(this.tsmiAuthor, "tsmiAuthor");
             this.tsmiAuthor.Image = global::CoffeeManager.Properties.Resources.dev16;
             this.tsmiAuthor.Name = "tsmiAuthor";
-            resources.ApplyResources(this.tsmiAuthor, "tsmiAuthor");
             this.tsmiAuthor.Click += new System.EventHandler(this.tsmiAuthor_Click);
             // 
             // pnlLeft
             // 
+            resources.ApplyResources(this.pnlLeft, "pnlLeft");
             this.pnlLeft.Controls.Add(this.panel3);
             this.pnlLeft.Controls.Add(this.grForm);
-            resources.ApplyResources(this.pnlLeft, "pnlLeft");
             this.pnlLeft.Name = "pnlLeft";
             // 
             // panel3
             // 
+            resources.ApplyResources(this.panel3, "panel3");
             this.panel3.Controls.Add(this.grbTable);
             this.panel3.Controls.Add(this.grInfo);
             this.panel3.Controls.Add(this.grPosition);
-            resources.ApplyResources(this.panel3, "panel3");
             this.panel3.Name = "panel3";
             // 
             // grbTable
             // 
+            resources.ApplyResources(this.grbTable, "grbTable");
             this.grbTable.Controls.Add(this.flpEmptyTable);
             this.grbTable.Controls.Add(this.panel4);
-            resources.ApplyResources(this.grbTable, "grbTable");
             this.grbTable.ForeColor = System.Drawing.Color.Blue;
             this.grbTable.Name = "grbTable";
             this.grbTable.TabStop = false;
@@ -442,8 +442,8 @@ namespace CoffeeManager
             // 
             // panel4
             // 
-            this.panel4.Controls.Add(this.LblSettingTable);
             resources.ApplyResources(this.panel4, "panel4");
+            this.panel4.Controls.Add(this.LblSettingTable);
             this.panel4.Name = "panel4";
             // 
             // LblSettingTable
@@ -455,9 +455,9 @@ namespace CoffeeManager
             // 
             // grInfo
             // 
+            resources.ApplyResources(this.grInfo, "grInfo");
             this.grInfo.Controls.Add(this.btnAddCustomer);
             this.grInfo.Controls.Add(this.btnAddTable);
-            resources.ApplyResources(this.grInfo, "grInfo");
             this.grInfo.Name = "grInfo";
             this.grInfo.TabStop = false;
             // 
@@ -477,10 +477,10 @@ namespace CoffeeManager
             // 
             // grPosition
             // 
+            resources.ApplyResources(this.grPosition, "grPosition");
             this.grPosition.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
             this.grPosition.Controls.Add(this.CkbAll);
             this.grPosition.Controls.Add(this.cbbPosition);
-            resources.ApplyResources(this.grPosition, "grPosition");
             this.grPosition.ForeColor = System.Drawing.Color.Blue;
             this.grPosition.Name = "grPosition";
             this.grPosition.TabStop = false;
@@ -494,18 +494,18 @@ namespace CoffeeManager
             // 
             // cbbPosition
             // 
-            this.cbbPosition.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             resources.ApplyResources(this.cbbPosition, "cbbPosition");
+            this.cbbPosition.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cbbPosition.FormattingEnabled = true;
             this.cbbPosition.Name = "cbbPosition";
             this.cbbPosition.SelectedValueChanged += new System.EventHandler(this.cbbPosition_SelectedValueChanged);
             // 
             // grForm
             // 
+            resources.ApplyResources(this.grForm, "grForm");
             this.grForm.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(192)))), ((int)(((byte)(255)))));
             this.grForm.Controls.Add(this.ckbBringBack);
             this.grForm.Controls.Add(this.ckbInPlace);
-            resources.ApplyResources(this.grForm, "grForm");
             this.grForm.ForeColor = System.Drawing.Color.Blue;
             this.grForm.Name = "grForm";
             this.grForm.TabStop = false;
@@ -532,12 +532,12 @@ namespace CoffeeManager
             // 
             // pnlRight
             // 
+            resources.ApplyResources(this.pnlRight, "pnlRight");
             this.pnlRight.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(224)))), ((int)(((byte)(192)))));
             this.pnlRight.Controls.Add(this.flpRight);
             this.pnlRight.Controls.Add(this.panel2);
             this.pnlRight.Controls.Add(this.groupBox3);
             this.pnlRight.Controls.Add(this.groupBox7);
-            resources.ApplyResources(this.pnlRight, "pnlRight");
             this.pnlRight.Name = "pnlRight";
             // 
             // flpRight
@@ -548,10 +548,10 @@ namespace CoffeeManager
             // 
             // panel2
             // 
+            resources.ApplyResources(this.panel2, "panel2");
             this.panel2.Controls.Add(this.LblSettingPr);
             this.panel2.Controls.Add(this.lblFullName);
             this.panel2.Controls.Add(this.label5);
-            resources.ApplyResources(this.panel2, "panel2");
             this.panel2.Name = "panel2";
             // 
             // LblSettingPr
@@ -573,11 +573,11 @@ namespace CoffeeManager
             // 
             // groupBox3
             // 
+            resources.ApplyResources(this.groupBox3, "groupBox3");
             this.groupBox3.BackColor = System.Drawing.Color.Silver;
             this.groupBox3.Controls.Add(this.BtnAddPr);
             this.groupBox3.Controls.Add(this.btnX);
             this.groupBox3.Controls.Add(this.txtSearch);
-            resources.ApplyResources(this.groupBox3, "groupBox3");
             this.groupBox3.ForeColor = System.Drawing.Color.Blue;
             this.groupBox3.Name = "groupBox3";
             this.groupBox3.TabStop = false;
@@ -606,33 +606,33 @@ namespace CoffeeManager
             // 
             // groupBox7
             // 
-            this.groupBox7.Controls.Add(this.cbbMenu);
             resources.ApplyResources(this.groupBox7, "groupBox7");
+            this.groupBox7.Controls.Add(this.cbbMenu);
             this.groupBox7.ForeColor = System.Drawing.Color.Blue;
             this.groupBox7.Name = "groupBox7";
             this.groupBox7.TabStop = false;
             // 
             // cbbMenu
             // 
+            resources.ApplyResources(this.cbbMenu, "cbbMenu");
             this.cbbMenu.BackColor = System.Drawing.Color.White;
             this.cbbMenu.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            resources.ApplyResources(this.cbbMenu, "cbbMenu");
             this.cbbMenu.FormattingEnabled = true;
             this.cbbMenu.Name = "cbbMenu";
             this.cbbMenu.SelectedValueChanged += new System.EventHandler(this.cbbMenu_SelectedValueChanged);
             // 
             // pnlCenter
             // 
+            resources.ApplyResources(this.pnlCenter, "pnlCenter");
             this.pnlCenter.Controls.Add(this.groupBox6);
             this.pnlCenter.Controls.Add(this.panel1);
             this.pnlCenter.Controls.Add(this.groupBox4);
-            resources.ApplyResources(this.pnlCenter, "pnlCenter");
             this.pnlCenter.Name = "pnlCenter";
             // 
             // groupBox6
             // 
-            this.groupBox6.Controls.Add(this.dgvMain);
             resources.ApplyResources(this.groupBox6, "groupBox6");
+            this.groupBox6.Controls.Add(this.dgvMain);
             this.groupBox6.ForeColor = System.Drawing.Color.Blue;
             this.groupBox6.Name = "groupBox6";
             this.groupBox6.TabStop = false;
@@ -729,27 +729,28 @@ namespace CoffeeManager
             // 
             // tsmiEdit
             // 
+            resources.ApplyResources(this.tsmiEdit, "tsmiEdit");
             this.tsmiEdit.Image = global::CoffeeManager.Properties.Resources.edit16;
             this.tsmiEdit.Name = "tsmiEdit";
-            resources.ApplyResources(this.tsmiEdit, "tsmiEdit");
             this.tsmiEdit.Click += new System.EventHandler(this.tsmiEdit_Click);
             // 
             // tsmiDel
             // 
+            resources.ApplyResources(this.tsmiDel, "tsmiDel");
             this.tsmiDel.Image = global::CoffeeManager.Properties.Resources.del16;
             this.tsmiDel.Name = "tsmiDel";
-            resources.ApplyResources(this.tsmiDel, "tsmiDel");
             this.tsmiDel.Click += new System.EventHandler(this.tsmiDel_Click);
             // 
             // panel1
             // 
+            resources.ApplyResources(this.panel1, "panel1");
             this.panel1.Controls.Add(this.groupBox8);
             this.panel1.Controls.Add(this.groupBox5);
-            resources.ApplyResources(this.panel1, "panel1");
             this.panel1.Name = "panel1";
             // 
             // groupBox8
             // 
+            resources.ApplyResources(this.groupBox8, "groupBox8");
             this.groupBox8.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(255)))));
             this.groupBox8.Controls.Add(this.CkbPreviewPrint);
             this.groupBox8.Controls.Add(this.CkbPrintBill);
@@ -761,7 +762,6 @@ namespace CoffeeManager
             this.groupBox8.Controls.Add(this.label2);
             this.groupBox8.Controls.Add(this.label3);
             this.groupBox8.Controls.Add(this.txtMoneyPay);
-            resources.ApplyResources(this.groupBox8, "groupBox8");
             this.groupBox8.ForeColor = System.Drawing.Color.Blue;
             this.groupBox8.Name = "groupBox8";
             this.groupBox8.TabStop = false;
@@ -833,68 +833,68 @@ namespace CoffeeManager
             // 
             // groupBox5
             // 
-            this.groupBox5.Controls.Add(this.flowLayoutPanel1);
             resources.ApplyResources(this.groupBox5, "groupBox5");
+            this.groupBox5.Controls.Add(this.flowLayoutPanel1);
             this.groupBox5.ForeColor = System.Drawing.Color.Blue;
             this.groupBox5.Name = "groupBox5";
             this.groupBox5.TabStop = false;
             // 
             // flowLayoutPanel1
             // 
+            resources.ApplyResources(this.flowLayoutPanel1, "flowLayoutPanel1");
             this.flowLayoutPanel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(224)))), ((int)(((byte)(192)))));
             this.flowLayoutPanel1.Controls.Add(this.btnSave);
             this.flowLayoutPanel1.Controls.Add(this.btnChangeTable);
             this.flowLayoutPanel1.Controls.Add(this.btnMergeTable);
             this.flowLayoutPanel1.Controls.Add(this.btnPay);
-            resources.ApplyResources(this.flowLayoutPanel1, "flowLayoutPanel1");
             this.flowLayoutPanel1.Name = "flowLayoutPanel1";
             // 
             // btnSave
             // 
-            this.btnSave.Image = global::CoffeeManager.Properties.Resources.save;
             resources.ApplyResources(this.btnSave, "btnSave");
+            this.btnSave.Image = global::CoffeeManager.Properties.Resources.save;
             this.btnSave.Name = "btnSave";
             this.btnSave.UseVisualStyleBackColor = true;
             this.btnSave.Click += new System.EventHandler(this.btnSave_Click);
             // 
             // btnChangeTable
             // 
-            this.btnChangeTable.Image = global::CoffeeManager.Properties.Resources.changeTable;
             resources.ApplyResources(this.btnChangeTable, "btnChangeTable");
+            this.btnChangeTable.Image = global::CoffeeManager.Properties.Resources.changeTable;
             this.btnChangeTable.Name = "btnChangeTable";
             this.btnChangeTable.UseVisualStyleBackColor = true;
             this.btnChangeTable.Click += new System.EventHandler(this.btnChangeTable_Click);
             // 
-            // btnMergeTable
-            // 
-            this.btnMergeTable.Image = global::CoffeeManager.Properties.Resources.merge;
-            resources.ApplyResources(this.btnMergeTable, "btnMergeTable");
-            this.btnMergeTable.Name = "btnMergeTable";
-            this.btnMergeTable.UseVisualStyleBackColor = true;
-            this.btnMergeTable.Click += new System.EventHandler(this.btnMergeTable_Click);
-            // 
             // btnPay
             // 
-            this.btnPay.Image = global::CoffeeManager.Properties.Resources.billPlease;
             resources.ApplyResources(this.btnPay, "btnPay");
+            this.btnPay.Image = global::CoffeeManager.Properties.Resources.billPlease;
             this.btnPay.Name = "btnPay";
             this.btnPay.UseVisualStyleBackColor = true;
             this.btnPay.Click += new System.EventHandler(this.btnPay_Click);
             // 
             // groupBox4
             // 
-            this.groupBox4.Controls.Add(this.lblTable);
             resources.ApplyResources(this.groupBox4, "groupBox4");
+            this.groupBox4.Controls.Add(this.lblTable);
             this.groupBox4.ForeColor = System.Drawing.Color.Red;
             this.groupBox4.Name = "groupBox4";
             this.groupBox4.TabStop = false;
             // 
             // lblTable
             // 
-            this.lblTable.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(224)))), ((int)(((byte)(192)))));
             resources.ApplyResources(this.lblTable, "lblTable");
+            this.lblTable.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(224)))), ((int)(((byte)(192)))));
             this.lblTable.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
             this.lblTable.Name = "lblTable";
+            // 
+            // btnMergeTable
+            // 
+            resources.ApplyResources(this.btnMergeTable, "btnMergeTable");
+            this.btnMergeTable.Image = global::CoffeeManager.Properties.Resources.billPlease;
+            this.btnMergeTable.Name = "btnMergeTable";
+            this.btnMergeTable.UseVisualStyleBackColor = true;
+            this.btnMergeTable.Click += new System.EventHandler(this.btnMergeTable_Click);
             // 
             // FrmMain
             // 
@@ -979,7 +979,6 @@ namespace CoffeeManager
         private System.Windows.Forms.Button btnSave;
         private System.Windows.Forms.Button btnPay;
         private System.Windows.Forms.Button btnChangeTable;
-        private System.Windows.Forms.Button btnMergeTable;
         private System.Windows.Forms.TextBox txtDescription;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.ToolStripMenuItem tsmiStore;
@@ -1037,6 +1036,7 @@ namespace CoffeeManager
         private System.Windows.Forms.ToolStripSeparator toolStripSeparator10;
         private System.Windows.Forms.ToolStripSeparator toolStripSeparator11;
         private System.Windows.Forms.Button BtnAddPr;
+        private System.Windows.Forms.Button btnMergeTable;
     }
 }
 

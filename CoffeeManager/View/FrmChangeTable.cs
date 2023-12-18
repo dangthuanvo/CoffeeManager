@@ -36,14 +36,14 @@ namespace CoffeeManager
                 if (_modeExe == ModeExe.Update)
                 {
                     Text = SHOW_TABLE_MERGE;
-                }    
+                }
 
                 lblLeft.Text = _nameNeedChange;
                 lblTable.Text = _nameNeedChange;
 
                 FlpNeedChange.MaximumSize = new Size(Width / 2 - 2, 0);
                 flpEmptyTable.MaximumSize = new Size(Width / 2 - 2, 0);
-                
+
 
                 string message = LoadGroupTb();
                 if (message.Length > 0)
@@ -83,7 +83,7 @@ namespace CoffeeManager
 
                     default:
                         break;
-                }                  
+                }
             }
             catch (Exception ex)
             {
@@ -104,7 +104,7 @@ namespace CoffeeManager
                 _dtGroup = _dbTable.GetAllGroupTable();
                 cbbPosition.DataSource = _dtGroup;
                 cbbPosition.ValueMember = "id";
-                cbbPosition.DisplayMember = "name";            
+                cbbPosition.DisplayMember = "name";
                 cbbPosition.SelectedIndex = 0;
             }
             catch (Exception ex)
@@ -234,7 +234,7 @@ namespace CoffeeManager
                         flpEmptyTable.Controls.Add(bt);
                         bt.Click += btn_ToChange;
                     }
-                }    
+                }
 
             }
             catch (Exception ex)
@@ -251,10 +251,10 @@ namespace CoffeeManager
         {
             try
             {
-                if  (_loadComplete == false)
+                if (_loadComplete == false)
                 {
                     goto TheEnd;
-                }    
+                }
 
                 string message = LoadDtTableToChange();
                 if (message.Length > 0)
@@ -284,13 +284,13 @@ namespace CoffeeManager
             {
                 MsgBox.CfmInfomation(MSG_HAVENT_CHOSEN_TB);
                 goto TheEnd;
-            }  
-            
+            }
+
             DialogResult showMsg = MsgBox.CfmProcessing(SHOW_BILL_FROM + _nameNeedChange + SHOW_TO + _nameToChange + SHOW_CONTINUE);
             if (showMsg != DialogResult.Yes)
             {
                 goto TheEnd;
-            }    
+            }
 
             DataTable dt = _dbBill.GetAllBillDetailt(_idNeedChange);
             if (dt == null)
@@ -334,13 +334,13 @@ namespace CoffeeManager
                     {
                         long idDetailt = (long)dr1["id"];
                         long idProduct = (long)dr1["idProduct"];
-                        int quantily = (int)dr1["quantily"];
+                        int quantity = (int)dr1["quantity"];
                         double unitPrice = (double)dr1["unitPrice"];
-                        double totalMoney = unitPrice * quantily;
+                        double totalMoney = unitPrice * quantity;
 
                         DbBillDetailtIn DbBillDetailtIn = new DbBillDetailtIn();
                         DbBillDetailtIn.UnitPrice = unitPrice;
-                        DbBillDetailtIn.Quantity = quantily;
+                        DbBillDetailtIn.Quantity = quantity;
                         DbBillDetailtIn.IdBill = idBill2;
                         DbBillDetailtIn.IdProduct = (long)dr1["idProduct"];
                         DbBillDetailtIn.IntoMoney = totalMoney;
@@ -359,7 +359,7 @@ namespace CoffeeManager
                         {
                             MsgBox.ErrProcess(ERROR_WHEN_DEL);
                             goto TheEnd;
-                        }    
+                        }
                     }
 
                     // Xóa hóa đơn bên bàn chuyển
@@ -371,19 +371,19 @@ namespace CoffeeManager
                     }
 
                     // Cập nhật lại tổng tiền bên Bill2
-                    _dbBill.UpdateMoney(idBill2);   
+                    _dbBill.UpdateMoney(idBill2);
                     break;
 
                 default:
                     break;
-            }    
-            
+            }
+
             int update = _dbTable.UpdateStatusTableWhenChangeFalse(_idNeedChange);
             if (update != 1)
             {
                 MsgBox.ErrProcess(ERROR_UD_STATUS_TB);
                 goto TheEnd;
-            }           
+            }
 
             DialogResult = DialogResult.OK;
 
