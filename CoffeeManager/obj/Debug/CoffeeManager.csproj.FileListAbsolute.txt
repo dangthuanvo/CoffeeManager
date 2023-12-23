@@ -1,0 +1,418 @@
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\bin\Debug\CoffeeManager.exe.config
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\bin\Debug\CoffeeManager.exe
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\bin\Debug\CoffeeManager.pdb
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\bin\Debug\en\CoffeeManager.resources.dll
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\bin\Debug\EnvDTE.dll
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\bin\Debug\stdole.dll
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.csproj.ResolveComReference.cache
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmConfirmPassword.resources
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmConnect.resources
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmChangePassword.resources
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmSetting.resources
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmAddBillDetailt.resources
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmAddOrEditEmployees.resources
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmCusInfo.resources
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmAddProduct.resources
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmAddTable.resources
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmChangeTable.resources
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmCus.resources
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmEmployees.resources
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmGroupTb.resources
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmGroup.resources
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmLogin.resources
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmLoginInfo.resources
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmLoginRole.resources
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmMain.resources
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmSaleReport.resources
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmSalesChart.resources
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmStore.resources
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmTable.resources
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmProduct.resources
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmUserSel.resources
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmWait.resources
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.Properties.Resource.resources
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.Properties.Resources.resources
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmConnect.en.resources
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmAddBillDetailt.en.resources
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmAddOrEditEmployees.en.resources
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmAddProduct.en.resources
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmChangePassword.en.resources
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmChangeTable.en.resources
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmCusInfo.en.resources
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmCus.en.resources
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmEmployees.en.resources
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmGroup.en.resources
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmGroupTb.en.resources
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmLoginInfo.en.resources
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmLoginRole.en.resources
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmProduct.en.resources
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmSaleReport.en.resources
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmSalesChart.en.resources
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmSetting.en.resources
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.Properties.Resources.en.resources
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmMain.en.resources
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmStore.en.resources
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmTable.en.resources
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmUserSel.en.resources
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.csproj.GenerateResource.cache
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\obj\Debug\RdlCompile.cache
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\obj\Debug\RdlCompile.compiled
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.csproj.CoreCompileInputs.cache
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\obj\Debug\en\CoffeeManager.resources.dll
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.csproj.CopyComplete
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.exe
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.pdb
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.csproj.AssemblyReference.cache
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmAuthor.resources
+C:\Users\Thanh Binh\Desktop\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmLogin.en.resources
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\bin\Debug\CoffeeManager.exe.config
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\bin\Debug\CoffeeManager.exe
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\bin\Debug\CoffeeManager.pdb
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\bin\Debug\en\CoffeeManager.resources.dll
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\bin\Debug\EnvDTE.dll
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\bin\Debug\stdole.dll
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.MSXML.dll
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.csproj.AssemblyReference.cache
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.csproj.ResolveComReference.cache
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmAuthor.resources
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmConfirmPassword.resources
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmConnect.resources
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmChangePassword.resources
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmSetting.resources
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmAddBillDetailt.resources
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmAddOrEditEmployees.resources
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmCusInfo.resources
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmAddProduct.resources
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmAddTable.resources
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmChangeTable.resources
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmCus.resources
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmEmployees.resources
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmGroupTb.resources
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmGroup.resources
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmLogin.resources
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmLoginInfo.resources
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmLoginRole.resources
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmMain.resources
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmSaleReport.resources
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmSalesChart.resources
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmStore.resources
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmTable.resources
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmProduct.resources
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmUserSel.resources
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmWait.resources
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.Properties.Resource.resources
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.Properties.Resources.resources
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmConnect.en.resources
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmAddBillDetailt.en.resources
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmAddOrEditEmployees.en.resources
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmAddProduct.en.resources
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmChangePassword.en.resources
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmChangeTable.en.resources
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmCusInfo.en.resources
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmCus.en.resources
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmEmployees.en.resources
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmGroup.en.resources
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmGroupTb.en.resources
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmLogin.en.resources
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmLoginInfo.en.resources
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmLoginRole.en.resources
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmProduct.en.resources
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmSaleReport.en.resources
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmSalesChart.en.resources
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmSetting.en.resources
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.Properties.Resources.en.resources
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmMain.en.resources
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmStore.en.resources
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmTable.en.resources
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmUserSel.en.resources
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.csproj.GenerateResource.cache
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.csproj.CoreCompileInputs.cache
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\obj\Debug\en\CoffeeManager.resources.dll
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.csproj.CopyComplete
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.exe
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.pdb
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmAddTable.en.resources
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\obj\Debug\RdlCompile.cache
+D:\SHARECODEVN\CoffeeManager\CoffeeManager\obj\Debug\RdlCompile.compiled
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\bin\Debug\CoffeeManager.exe.config
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\bin\Debug\CoffeeManager.exe
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\bin\Debug\CoffeeManager.pdb
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\bin\Debug\en\CoffeeManager.resources.dll
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\bin\Debug\EnvDTE.dll
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\bin\Debug\stdole.dll
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.MSXML.dll
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.csproj.AssemblyReference.cache
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.csproj.ResolveComReference.cache
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.ProgressBarForm.resources
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmAuthor.resources
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmConfirmPassword.resources
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmConnect.resources
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmChangePassword.resources
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmSetting.resources
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmAddBillDetailt.resources
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmAddOrEditEmployees.resources
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmCusInfo.resources
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmAddProduct.resources
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmAddTable.resources
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmChangeTable.resources
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmCus.resources
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmEmployees.resources
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmGroupTb.resources
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmGroup.resources
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmLogin.resources
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmLoginInfo.resources
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmLoginRole.resources
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmMain.resources
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmSaleReport.resources
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmSalesChart.resources
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmStore.resources
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmTable.resources
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmProduct.resources
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmUserSel.resources
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmWait.resources
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.Properties.Resource.resources
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.Properties.Resources.resources
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmAddTable.en.resources
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmConnect.en.resources
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmAddBillDetailt.en.resources
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmAddOrEditEmployees.en.resources
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmAddProduct.en.resources
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmChangePassword.en.resources
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmChangeTable.en.resources
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmCusInfo.en.resources
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmCus.en.resources
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmEmployees.en.resources
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmGroup.en.resources
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmGroupTb.en.resources
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmLogin.en.resources
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmLoginInfo.en.resources
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmLoginRole.en.resources
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmProduct.en.resources
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmSaleReport.en.resources
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmSalesChart.en.resources
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmSetting.en.resources
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.Properties.Resources.en.resources
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmMain.en.resources
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmStore.en.resources
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmTable.en.resources
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmUserSel.en.resources
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.csproj.GenerateResource.cache
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\obj\Debug\RdlCompile.cache
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\obj\Debug\RdlCompile.compiled
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.csproj.CoreCompileInputs.cache
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\obj\Debug\en\CoffeeManager.resources.dll
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.csproj.CopyComplete
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.exe
+D:\SOURCE_CODE\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.pdb
+D:\CoffeeManager\CoffeeManager\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\CoffeeManager\CoffeeManager\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\CoffeeManager\CoffeeManager\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\CoffeeManager\CoffeeManager\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\CoffeeManager\CoffeeManager\bin\Debug\CoffeeManager.exe.config
+D:\CoffeeManager\CoffeeManager\bin\Debug\CoffeeManager.exe
+D:\CoffeeManager\CoffeeManager\bin\Debug\CoffeeManager.pdb
+D:\CoffeeManager\CoffeeManager\bin\Debug\en\CoffeeManager.resources.dll
+D:\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\CoffeeManager\CoffeeManager\bin\Debug\EnvDTE.dll
+D:\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\CoffeeManager\CoffeeManager\bin\Debug\stdole.dll
+D:\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.MSXML.dll
+D:\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.csproj.AssemblyReference.cache
+D:\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.csproj.SuggestedBindingRedirects.cache
+D:\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.csproj.ResolveComReference.cache
+D:\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.ProgressBarForm.resources
+D:\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmAuthor.resources
+D:\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmConfirmPassword.resources
+D:\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmConnect.resources
+D:\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmChangePassword.resources
+D:\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmSetting.resources
+D:\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmAddBillDetailt.resources
+D:\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmAddOrEditEmployees.resources
+D:\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmCusInfo.resources
+D:\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmAddProduct.resources
+D:\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmAddTable.resources
+D:\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmChangeTable.resources
+D:\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmCus.resources
+D:\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmEmployees.resources
+D:\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmGroupTb.resources
+D:\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmGroup.resources
+D:\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmLogin.resources
+D:\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmLoginInfo.resources
+D:\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmLoginRole.resources
+D:\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmMain.resources
+D:\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmSaleReport.resources
+D:\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmSalesChart.resources
+D:\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmStore.resources
+D:\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmTable.resources
+D:\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmProduct.resources
+D:\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmUserSel.resources
+D:\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmWait.resources
+D:\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.Properties.Resource.resources
+D:\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.Properties.Resources.resources
+D:\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmAddTable.en.resources
+D:\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmConnect.en.resources
+D:\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmAddBillDetailt.en.resources
+D:\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmAddOrEditEmployees.en.resources
+D:\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmAddProduct.en.resources
+D:\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmChangePassword.en.resources
+D:\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmChangeTable.en.resources
+D:\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmCusInfo.en.resources
+D:\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmCus.en.resources
+D:\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmEmployees.en.resources
+D:\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmGroup.en.resources
+D:\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmGroupTb.en.resources
+D:\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmLogin.en.resources
+D:\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmLoginInfo.en.resources
+D:\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmLoginRole.en.resources
+D:\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmProduct.en.resources
+D:\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmSaleReport.en.resources
+D:\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmSalesChart.en.resources
+D:\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmSetting.en.resources
+D:\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.Properties.Resources.en.resources
+D:\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmMain.en.resources
+D:\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmStore.en.resources
+D:\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmTable.en.resources
+D:\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmUserSel.en.resources
+D:\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.csproj.GenerateResource.cache
+D:\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.csproj.CoreCompileInputs.cache
+D:\CoffeeManager\CoffeeManager\obj\Debug\en\CoffeeManager.resources.dll
+D:\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.csproj.CopyComplete
+D:\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.exe
+D:\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.pdb
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\bin\Debug\CoffeeManager.exe.config
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\bin\Debug\CoffeeManager.exe
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\bin\Debug\CoffeeManager.pdb
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\bin\Debug\en\CoffeeManager.resources.dll
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\bin\Debug\EnvDTE.dll
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\bin\Debug\stdole.dll
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.MSXML.dll
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.csproj.AssemblyReference.cache
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.csproj.SuggestedBindingRedirects.cache
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.csproj.ResolveComReference.cache
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.ProgressBarForm.resources
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmAuthor.resources
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmConfirmPassword.resources
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmConnect.resources
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmChangePassword.resources
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmSetting.resources
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmAddBillDetailt.resources
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmAddOrEditEmployees.resources
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmCusInfo.resources
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmAddProduct.resources
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmAddTable.resources
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmChangeTable.resources
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmCus.resources
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmEmployees.resources
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmGroupTb.resources
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmGroup.resources
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmLogin.resources
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmLoginInfo.resources
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmLoginRole.resources
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmMain.resources
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmSaleReport.resources
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmSalesChart.resources
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmStore.resources
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmTable.resources
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmProduct.resources
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmUserSel.resources
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmWait.resources
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.Properties.Resource.resources
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.Properties.Resources.resources
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmAddTable.en.resources
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmConnect.en.resources
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmAddBillDetailt.en.resources
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmAddOrEditEmployees.en.resources
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmAddProduct.en.resources
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmChangePassword.en.resources
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmChangeTable.en.resources
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmCusInfo.en.resources
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmCus.en.resources
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmEmployees.en.resources
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmGroup.en.resources
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmGroupTb.en.resources
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmLogin.en.resources
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmLoginInfo.en.resources
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmLoginRole.en.resources
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmProduct.en.resources
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmSaleReport.en.resources
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmSalesChart.en.resources
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmSetting.en.resources
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.Properties.Resources.en.resources
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmMain.en.resources
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmStore.en.resources
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmTable.en.resources
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.FrmUserSel.en.resources
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.csproj.GenerateResource.cache
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.csproj.CoreCompileInputs.cache
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\obj\Debug\en\CoffeeManager.resources.dll
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.csproj.CopyComplete
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.exe
+D:\Project\Mobile\Client\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.pdb
